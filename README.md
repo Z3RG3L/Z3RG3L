@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Z3RG3L
 
 
-- 👀 I am interested in learning everything related to code,
--  programming and digital development. I am very new, so I may not be correctly declaring some fields that I mention. I'll definitely update it after a while. Pleasure.
+- 👀 I am interested in learning everything related to code, programming and digital development. I am very new, so I may not be correctly declaring some fields that I mention. I'll definitely update it after a while. Pleasure.
 
 - 🌱 I’m currently learning JAVA and Wordpress.
 
